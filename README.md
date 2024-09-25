@@ -1,6 +1,4 @@
-👋 Welcome to Mazin's GitHub!
-
-🌟 About Me:
+👋 Hi there! I'm Mazin Emad and You are in my GitHub!
 
 I'm a passionate Web Devoleper with a knack for building efficient and innovative solutions. I have a strong foundation in problem-solving, data structures, and object-oriented programming (OOP). I’m always eager to learn and improve.
 
