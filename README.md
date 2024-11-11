@@ -8,7 +8,7 @@ Languages: Java, C++, JavaScript, HTML, CSS
 
 Frameworks & Libraries: React, Bootstrap, Tailwind
 
-Tools & IDEs: VS Code, AI tools
+Tools & IDEs: VS Code, Figma, Firebase, AI tools
 
 Expertise: OOP, Data Structures, and Problem Solving
 
