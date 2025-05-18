@@ -6,7 +6,7 @@ I'm a passionate Web Devoleper with a knack for building efficient and innovativ
 
 Languages: Java, C++, JavaScript, PHP, HTML, CSS
 
-Frameworks & Libraries: React.js, Next.js, Tailwind
+Frameworks & Libraries: React.js, Next.js, Tailwind, Node.js
 
 Tools & IDEs: VS Code, Figma, Firebase, AI tools
 
