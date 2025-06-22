@@ -4,13 +4,13 @@ I'm a passionate Web Devoleper with a knack for building efficient and innovativ
 
 💻 Tech Stack & Tools
 
-Languages: Java, C++, JavaScript, PHP, HTML, CSS
+Languages: Java, C++, JavaScript, TypeScript, PHP, HTML, CSS
 
-Frameworks & Libraries: React.js, Next.js, Tailwind, Node.js
+Frameworks & Libraries: React, Next, Vue, Tailwind, Node
 
-Tools & IDEs: VS Code, Figma, Firebase, AI tools
+Concepts: OOP, Data Structures, and Problem Solving
 
-Expertise: OOP, Data Structures, and Problem Solving
+Tools: VS Code, Figma, Firebase, Docker
 
 🚀 I’m here to build, learn, and share knowledge with the tech community!
 
