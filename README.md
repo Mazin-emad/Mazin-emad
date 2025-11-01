@@ -1,17 +1,44 @@
-👋 Hi there! I'm Mazin Emad and You are in my GitHub!
+# Hi, I'm Mazin Emad
 
-I'm a passionate Web Devoleper with a knack for building efficient and innovative solutions. I have a strong foundation in problem-solving, data structures, and object-oriented programming (OOP). I’m always eager to learn and improve.
+[![GitHub followers](https://img.shields.io/github/followers/Mazin-Emad?label=Followers&style=flat)](https://github.com/Mazin-emad)
+[![Profile Views](https://komarev.com/ghpvc/?username=Mazin-Emad&style=flat&color=blue)](https://github.com/Mazin-emad)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mazin%20Emad-blue)](https://www.linkedin.com/in/mazin0emd)
 
-💻 Tech Stack & Tools
+Frontend Developer • Problem Solver • CS Student @ EEL University  
+Building scalable, clean, and user-focused web apps.
 
-Languages: Java, C++, JavaScript, TypeScript, PHP, HTML, CSS
+---
 
-Frameworks & Libraries: React, Next, Vue, Tailwind, Node
+## 🧩 Tech Stack
+**Frontend:** React | Next.js | Vue.js | Tailwind | Shadcn UI | React Query | Zod | React Hook Form  
+**Backend:** Node.js | Express | Firebase (Auth, Firestore, Storage)  
+**Languages:** JavaScript | TypeScript | Java | C++ | HTML | CSS  
+**Tools:** Vite | Git | VS Code | Figma | Postman | Docker  
 
-Concepts: OOP, Data Structures, and Problem Solving
+---
 
-Tools: VS Code, Figma, Firebase, Docker
+## 📈 GitHub Stats
+![Mazin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mazin-emad&show_icons=true&theme=default&hide_border=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mazin-emad&layout=compact&hide_border=true)
 
-🚀 I’m here to build, learn, and share knowledge with the tech community!
+---
 
-Let's connect, collaborate, and create something amazing together! 😊
+## 📬 Connect
+💼 [LinkedIn](https://www.linkedin.com/in/mazin0mad)  
+🌐 [Portfolio](https://mazin-emad.vercel.app)  
+📧 mazin0emd@gmail.com
+
+---
+
+> "Clean code is not written by following rules; it’s written by understanding them."
+
+---
+
+## 📬 Connect
+💼 [LinkedIn](https://www.linkedin.com/in/mazinemad)  
+🌐 [Portfolio](https://your-portfolio-link.com)  
+📧 mazin@example.com
+
+---
+
+> "Clean code is not written by following rules; it’s written by understanding them."
