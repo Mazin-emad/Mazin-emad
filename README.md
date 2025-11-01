@@ -33,12 +33,3 @@ Building scalable, clean, and user-focused web apps.
 > "Clean code is not written by following rules; it’s written by understanding them."
 
 ---
-
-## 📬 Connect
-💼 [LinkedIn](https://www.linkedin.com/in/mazinemad)  
-🌐 [Portfolio](https://your-portfolio-link.com)  
-📧 mazin@example.com
-
----
-
-> "Clean code is not written by following rules; it’s written by understanding them."
