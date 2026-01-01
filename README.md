@@ -25,7 +25,7 @@ Building scalable, clean, and user-focused web apps.
 
 ## 📬 Connect
 💼 [LinkedIn](https://www.linkedin.com/in/mazin0mad)  
-🌐 [Portfolio](https://mazin-emad.vercel.app)  
+🌐 [Portfolio](https://mazin-emad.netlify.app)  
 📧 mazin0emd@gmail.com
 
 ---
