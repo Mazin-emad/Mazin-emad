@@ -24,8 +24,8 @@ I build clean, scalable, user-focused web apps — mainly with **Angular** and *
 ### 📈 GitHub Stats
 
 <p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Mazin-emad&show_icons=true&theme=default&hide_border=true" alt="Mazin's GitHub stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mazin-emad&layout=compact&hide_border=true" alt="Top Languages"/>
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=Mazin-emad&show_icons=true&theme=default&hide_border=true" alt="Mazin's GitHub stats"/>
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Mazin-emad&layout=compact&hide_border=true" alt="Top Languages"/>
 </p>
 
 ---
