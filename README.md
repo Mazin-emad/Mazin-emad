@@ -33,7 +33,7 @@ I build clean, scalable, user-focused web apps — mainly with **Angular** and *
 ### 📬 Connect
 
 💼 [LinkedIn](https://www.linkedin.com/in/mazin0emd)
-🌐 [Portfolio](https://mazin-emad.netlify.app)
+🌐 [Portfolio](https://mazin-emad.vercel.app)
 📧 mazin0emd@gmail.com
 
 ---
